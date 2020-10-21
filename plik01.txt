@@ -3,11 +3,3 @@ Zmiana 02 Zmiania 02
 Zmiana 03
 Zmiana 04
 Zmiana 05
-Zmiana 06
-Zmiana 07c
-<<<<<<< HEAD
-Naprawa błędów hotfix-001
-=======
-Dodano asystenta
-Uproszczono interfejs graficzny
->>>>>>> easierApp

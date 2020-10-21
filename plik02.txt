@@ -1,9 +1,0 @@
-Zmiana 07a
-Zmiana 08
-Zmiana 09
-<<<<<<< HEAD
-Naprawa błędów hotfix-001
-=======
-Dodano asystenta
-Uproszczono interfejs graficzny
->>>>>>> easierApp
